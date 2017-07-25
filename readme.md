@@ -9,8 +9,9 @@ AA settings in Unity apply in the Editor but not in WebGL builds (see the screen
 - macOS 10.12.5 (16F73) 
 - Safari 10.1.1 (12603.2.4) 
 - Chrome (59.0.3071.115)
-- Unity stable: 5.6.1f1
 - Unity beta: 2017.2.0b2
+- Unity stable: 5.6.1f1
+- Unity stable: 2017.1.0f3 
 
 # Screenshots
 
